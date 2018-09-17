@@ -1,0 +1,111 @@
+
+/*Navbar*/
+#header nav{
+	padding-top: 10px;
+	padding-bottom: 10px;
+	font-weight: 600;
+	text-transform: uppercase;
+	text-align: center;ii
+	-webkit-box-shadow: 4px 6px 16px 3px rgba(0,0,0,0.26); 
+	box-shadow: 4px 6px 16px 3px rgba(0,0,0,0.26);
+	
+}
+.dropdown:hover{
+	cursor: pointer;
+}
+/*Call to Action*/
+#calltoaction .jumbotron{
+	padding:150px 0px;
+	text-align: center;	
+	margin-bottom: 0px;
+	background: url('./Image/alex-j-reyes-605549-unsplash.jpg') center no-repeat;
+	background-size: cover;
+}
+#calltoaction .jumbotron h1{
+	color: #fff;
+	text-shadow: 4px 6px 16px 3px rgba(0,0,0,0.26);
+}
+#calltoaction .jumbotron p{
+	color: #fff;
+	text-shadow: 4px 6px 16px 3px rgba(0,0,0,0.26);
+	font-size:22px;
+}
+#calltoaction .jumbotron h1{
+	color: #fff;
+	text-shadow: 4px 6px 16px 3px rgba(0,0,0,0.26);
+}
+#calltoaction .jumbotron .btn-feature{
+	color: #fff;
+	border: 1px solid #fff;
+}
+#calltoaction .jumbotron .btn-feature:hover{
+	color:#E1DEDE;
+}
+/*Feature 1*/
+
+#feature1{
+ background-color: #DCDCDC;
+ color:#000;
+ text-align: center;
+}
+#icon1{	
+	width:60px;
+	height: 60px;
+	background:url('./Image/036-facebook.png');
+	background-size:cover;
+	margin-left: 45%;
+	margin-top:20px;
+}
+#icon2{	
+	width:60px;
+	height: 60px;
+	background:url('./Image/029-instagram.png');
+	background-size:cover;
+	margin-left: 45%;
+	margin-top:20px;
+}
+#icon3{	
+	width:60px;
+	height: 60px;
+background:url('./Image/006-vine.png');
+	background-size:cover;
+	margin-left: 45%;
+	margin-top:20px;
+}
+/*Feature 2*/
+*{}
+#feature2{
+	background:#070B13;
+	color:#fff;
+	font-style: italic;
+}
+#feature2 p{
+	color:#CAC8C8;
+}
+/*Feature 3*/
+#feature3 img{
+	width:380px;
+	height:380px;
+}
+/*Feature 4*/
+#feature4 {
+	background: #030302;
+}
+.btn-Sign{
+	background: #FDDC00;
+	color:#000;
+	font-weight: bold;
+}
+/*Footer*/
+#footer{
+	background:url('./Image/alex-j-reyes-605549-unsplash.jpg');
+	background-size: cover;
+	
+}
+#footer a{
+	color:#E6E6E7;
+	text-transform: uppercase;
+}
+#feature1,#feature2,#feature3,#feature4,#footer{
+	padding:20px 0px;
+}
